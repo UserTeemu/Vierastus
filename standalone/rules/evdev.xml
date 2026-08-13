@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xkbConfigRegistry SYSTEM "xkb.dtd">
+<xkbConfigRegistry>
+    <layoutList>
+        <layout>
+            <configItem>
+                <name>vierastus</name>
+                <shortDescription>en</shortDescription>
+                <description>Finnish (US)</description>
+                <countryList>
+                    <iso3166Id>US</iso3166Id>
+                    <iso3166Id>FI</iso3166Id>
+                </countryList>
+                <languageList>
+                    <iso639Id>eng</iso639Id>
+                    <iso639Id>fin</iso639Id>
+                </languageList>
+            </configItem>
+        </layout>
+    </layoutList>
+</xkbConfigRegistry>
